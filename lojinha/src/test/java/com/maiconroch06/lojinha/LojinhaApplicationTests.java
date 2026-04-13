@@ -1,10 +1,10 @@
-package com.maiconroch06.loja;
+package com.maiconroch06.lojinha;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LojaApplicationTests {
+class LojinhaApplicationTests {
 
 	@Test
 	void contextLoads() {
